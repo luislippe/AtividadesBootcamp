@@ -10,7 +10,6 @@ O arquivo de entrada contém 1 valor inteiro qualquer.
 Saída
 Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
  */
-
 fun main(args: Array<String>) {
     val x = 1
     for (i in   x.rangeTo(readLine()!!.toInt()).step( 2 )) println(i)

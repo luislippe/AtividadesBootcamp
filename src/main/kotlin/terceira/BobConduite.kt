@@ -1,5 +1,6 @@
 package terceira
 /*
+Desafio
 Você tem em mãos dois cabos circulares de energia. O primeiro cabo tem raio R1 e o segundo raio R2.
 Você precisa comprar um conduite circular (veja a imagem abaixo que ilustra um conduite) de maneira a
 passar os dois cabos por dentro dele:
@@ -15,8 +16,6 @@ inteiros serão positivos e todas as contas caberão em um inteiro normal de 32 
 Saída
 Em cada caso, imprima o menor raio possível em uma única linha
  */
-
-import java.util.Scanner
 
 fun main(args: Array<String>) {
     val num: Int = readLine()!!.toInt()

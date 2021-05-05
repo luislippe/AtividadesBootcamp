@@ -15,7 +15,6 @@ salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No e
 a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser
 impresso com duas casas decimais.
  */
-
 const val IMPOST_A = 0f //Renda de 0..2000
 const val IMPOST_B = 0.08 //Renda de 2000.01..3000
 const val IMPOST_C = 0.18 //Renda de 3000.01..4500

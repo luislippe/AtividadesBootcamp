@@ -21,12 +21,9 @@ Saída
 Para cada caso de teste, imprima uma única linha indicando o nível de velocidade da tartaruga mais veloz do grupo.
  */
 
-import java.io.EOFException
-
 fun main(args: Array<String>) {
 
     while (true) {
-
         try {
             val l = readLine()!!.toInt()
             val v = readLine()!!.split(" ").run { map{  it.toInt() }.toIntArray() }

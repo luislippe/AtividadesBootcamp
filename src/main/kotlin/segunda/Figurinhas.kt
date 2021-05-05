@@ -1,5 +1,6 @@
 package segunda
 /*
+Desafio
 Ricardo e Vicente são aficionados por figurinhas. Nas horas vagas, eles arrumam um jeito de jogar um “bafo” ou
 algum outro jogo que envolva tais figurinhas. Ambos também têm o hábito de trocarem as figuras repetidas com
 seus amigos e certo dia pensaram em uma brincadeira diferente. Chamaram todos os amigos e propuseram o seguinte:

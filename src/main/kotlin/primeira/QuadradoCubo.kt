@@ -11,7 +11,6 @@ Saída
 Imprima a saída conforme o exemplo fornecido.
 Entrada: [5] / Saída: [1 1 1] [2 4 8] [3 9 27] [4 16 64] [5 25 125]
  */
-
 fun main(args: Array<String>) {
 
     for (i in 1..readLine()!!.toInt()) {

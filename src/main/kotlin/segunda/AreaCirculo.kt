@@ -13,7 +13,6 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de
 imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
  */
-
 import java.math.BigDecimal
 import java.math.RoundingMode
 import kotlin.math.pow
