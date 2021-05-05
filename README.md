@@ -1,2 +1,2 @@
 # AtividadesBootcamp
-Conjunto de exercícios propostos no Bootcamp Everis
+Conjunto de exercícios propostos no Bootcamp Everis Kotlin Developer
